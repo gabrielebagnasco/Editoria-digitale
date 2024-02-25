@@ -14,10 +14,10 @@ csl: IEEE.csl
 ![Logo UNIMI](./logo/minerva.jpg){width=100px height=100px}
 
 # Ingegno
-I progetti più pazzi da realizzare
-
+Progetti pazzi per persone pazze
 
 ## Introduzione
+Si tratta di una rivista tecnica distrubita secondo una scadenza mensile che ad ogni uscita propone un nuovo progetto da realizzare. Sono progetti fuori dal comune, che toccano rami diversi delle materie scientifiche come meccanica, elettronica e informatica. La realizzazione di ogni numero viene svolta in diverse fasi prestando particolare attenzione ai dettagli riguardo la costruzione del progetto definiti in formato XML e ad un'impaginazione accattivante permessa grazie all'uso di software professionali come Adobe InDesign. L'uninione di queste due tecnologie permette di creare un layout di base della rivista, che però rimane molto personalizzabile e adattabile a seconda del progetto trattato nel numero in modo molto rapido. Si è raggiunta una qualità della rivista che permette una lettura molto scorrevole, facile e chiara nella descrizione della realizzazione del progetto.
 
 Breve descrizione del progetto toccando i punti più importanti affrontati nel documento.
 *Obiettivi*, *tecnologie*, aspetti salienti del *flusso di gestione documentale*, *risultati* raggiunti.  
@@ -25,6 +25,7 @@ Breve descrizione del progetto toccando i punti più importanti affrontati nel d
 ## Ideazione 
 
 ### Tema
+Si vuole realizzare un progetto
 Identificazione dei temi che il prodotto editoriale dovrà presentare. Evidenziare gli argomenti correlati e la tendenza dell'attenzione su questi temi. 
 
 > LM2 slide 28
