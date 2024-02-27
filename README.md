@@ -17,7 +17,7 @@ csl: IEEE.csl
 Progetti pazzi per persone pazze
 
 ## Introduzione
-Si tratta di una rivista tecnica distrubita secondo una scadenza mensile che ad ogni uscita propone un nuovo progetto da realizzare. Sono progetti fuori dal comune, che toccano rami diversi delle materie scientifiche come meccanica, elettronica e informatica. La realizzazione di ogni numero viene svolta in diverse fasi prestando particolare attenzione ai dettagli riguardanti la costruzione del progetto, definiti in formato XML e ad un'impaginazione accattivante permessa grazie all'uso di software professionali come Adobe InDesign. L'uninione di queste due tecnologie ha permesso di creare un layout di base della rivista, che però rimane molto personalizzabile e adattabile, rapidamente, a seconda del progetto trattato nel numero in questione. Si è raggiunta una qualità della rivista che permette una lettura molto scorrevole, facile e chiara nelle istruzioni per la realizzazione del progetto.
+Ingegno è una rivista tecnica distrubita secondo una scadenza mensile che ad ogni uscita propone un nuovo progetto da realizzare. Si tratta di progetti fuori dal comune, che toccano rami diversi delle materie scientifiche come meccanica, elettronica e informatica. La scrittura di ogni numero viene svolta in diverse fasi prestando particolare attenzione ai dettagli riguardanti la realizzazione del progetto, definiti in formato XML e ad un'impaginazione accattivante permessa grazie all'uso di software professionali come Adobe InDesign. L'uninione di queste due tecnologie ha permesso di creare un layout di base della rivista, che però rimane molto personalizzabile e adattabile, rapidamente, a seconda del progetto trattato nel numero in questione. Si è raggiunta una qualità della rivista che permette una lettura molto scorrevole, facile e chiara nelle istruzioni per la realizzazione del progetto.
 
 Breve descrizione del progetto toccando i punti più importanti affrontati nel documento.
 *Obiettivi*, *tecnologie*, aspetti salienti del *flusso di gestione documentale*, *risultati* raggiunti.  
@@ -26,6 +26,7 @@ Breve descrizione del progetto toccando i punti più importanti affrontati nel d
 
 ### Tema
 Si vuole realizzare un progetto
+
 Identificazione dei temi che il prodotto editoriale dovrà presentare. Evidenziare gli argomenti correlati e la tendenza dell'attenzione su questi temi. 
 
 > LM2 slide 28
@@ -33,6 +34,10 @@ Identificazione dei temi che il prodotto editoriale dovrà presentare. Evidenzia
 ![UNIMI](https://www.erasmusmilan.com/wp-content/uploads/2016/02/Statale-e1478865636847.jpg)
 
 ### Destinatari
+La rivista è adatta a tutti in quanto ogni argomento viene trattato con molta semplicità, tuttavia, il progetto è stato ideato ponendo l'accento su alcuni destinatari in particolare. Si tratta di persone appassionate di amterie in ambito scientifico come elettronica, meccanica, chimica, informatica, ecc. Di seguito verranno mostrate 3 personas inventate, ma basate sulla realtà, le quali probabilmente sarebberp 
+i soggetti più interessati al prodotto.
+
+
 Descrivere i destinatari del prodotto editoriale descrivendo le personas alle quali si rivolge il prodotto. Descrivete alcuni scenari d'uso nei quali inserire le personas scelte come destinatari.
 
 > LM2 slide 29-32
