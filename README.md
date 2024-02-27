@@ -37,6 +37,19 @@ Identificazione dei temi che il prodotto editoriale dovrà presentare. Evidenzia
 La rivista è adatta a tutti in quanto ogni argomento viene trattato con molta semplicità, tuttavia, il progetto è stato ideato ponendo l'accento su alcuni destinatari in particolare. Si tratta di persone appassionate di amterie in ambito scientifico come elettronica, meccanica, chimica, informatica, ecc. Di seguito verranno mostrate 3 personas inventate, ma basate sulla realtà, le quali probabilmente sarebberp 
 i soggetti più interessati al prodotto.
 
+**Persona 1**
+
+Nome:        Marco Rossi<br>
+Età:         36 anni<br>
+Residenza:   Milano<br>
+Lavoro:      Lavora presso un'azienda che si occupa della realizzazione di macchinari per l'automazione.<br>
+Studi:       Laureato in ingegneria meccaica al politecnico di Milano con il massimo dei voti<br>
+Passioni:    Appassionato di meccanica, elettronica, informatica, fai da te, praticante di diversi sport come MTB, nuoto e calisthenics<br>
+Dispositivi: Si trova bene con l'ecosistema Apple pertanto utilizza: Iphone, Ipad e MacBook
+
+**Persona 2**
+
+
 
 Descrivere i destinatari del prodotto editoriale descrivendo le personas alle quali si rivolge il prodotto. Descrivete alcuni scenari d'uso nei quali inserire le personas scelte come destinatari.
 
