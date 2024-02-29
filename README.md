@@ -36,7 +36,9 @@ Identificazione dei temi che il prodotto editoriale dovrà presentare. Evidenzia
 ### Destinatari
 La rivista è adatta a tutti in quanto ogni argomento viene trattato con molta semplicità, tuttavia, il progetto è stato ideato ponendo l'accento su alcuni destinatari in particolare. Si tratta di persone appassionate di amterie in ambito scientifico come elettronica, meccanica, chimica, informatica, ecc. Di seguito verranno mostrate 3 personas inventate, ma basate sulla realtà, le quali probabilmente sarebberp 
 i soggetti più interessati al prodotto.
-![personas](https://github.com/gabrielebagnasco/Editoria-digitale/assets/47850441/897da039-b3fc-4a47-93e7-e818fea9831e)
+
+![personas](https://github.com/gabrielebagnasco/Editoria-digitale/assets/47850441/347f9ee3-bc17-49b9-8df8-5028880fd23e)
+
 
 
 Descrivere i destinatari del prodotto editoriale descrivendo le personas alle quali si rivolge il prodotto. Descrivete alcuni scenari d'uso nei quali inserire le personas scelte come destinatari.
