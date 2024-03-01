@@ -25,21 +25,18 @@ Breve descrizione del progetto toccando i punti più importanti affrontati nel d
 ## Ideazione 
 
 ### Tema
-Si vuole realizzare un progetto
+Questo prodotto si pone l'obiettivo ispirare i lettori a esplorare le frontiere della conoscenza scientifica attraverso progetti fai-da-te accessibili e stimolanti. Gli appassionati di chimica, fisica, informatica, meccanica e più in generale tutte le materie scientifiche sono tanti; tuttavia, molto spesso, questi temi vengono trattati separatamente gli uni dagli altri. Questa rivista cerca di unire e trattare argomenti diversi in quanto andrebbero considerati come componenti di un'unica grande famiglia. 
 
 Identificazione dei temi che il prodotto editoriale dovrà presentare. Evidenziare gli argomenti correlati e la tendenza dell'attenzione su questi temi. 
 
 > LM2 slide 28
 
-![UNIMI](https://www.erasmusmilan.com/wp-content/uploads/2016/02/Statale-e1478865636847.jpg)
-
 ### Destinatari
-La rivista è adatta a tutti in quanto ogni argomento viene trattato con molta semplicità, tuttavia, il progetto è stato ideato ponendo l'accento su alcuni destinatari in particolare. Si tratta di persone appassionate di amterie in ambito scientifico come elettronica, meccanica, chimica, informatica, ecc. Di seguito verranno mostrate 3 personas inventate, ma basate sulla realtà, le quali probabilmente sarebberp 
-i soggetti più interessati al prodotto.
+La rivista è adatta a tutti in quanto ogni argomento viene trattato con molta semplicità, tuttavia, il progetto è stato ideato prendendo come riferimento alcuni destinatari in particolare. Si tratta di persone appassionate di materie in ambito scientifico come elettronica, meccanica, chimica, informatica, ecc. Di seguito verranno mostrate 3 personas inventate, ma basate sulla realtà, le quali, probabilmente, sarebbero i soggetti più interessati al prodotto.
 
-![personas](https://github.com/gabrielebagnasco/Editoria-digitale/assets/47850441/347f9ee3-bc17-49b9-8df8-5028880fd23e)
+![personas](https://github.com/gabrielebagnasco/Editoria-digitale/assets/47850441/6843f596-7790-4e8e-9351-dd6daf219396)
 
-
+Personas come quelle descritte in figura potrebbero usufruire di questo prodotto nel tempo libero ma non solo, persone come gli insegnanti, ad esempio, potrebbero prendere degli spunti da alcuni numeri della rivista per creare un argomento di discussione coinvolgente per gli alunni.
 
 Descrivere i destinatari del prodotto editoriale descrivendo le personas alle quali si rivolge il prodotto. Descrivete alcuni scenari d'uso nei quali inserire le personas scelte come destinatari.
 
