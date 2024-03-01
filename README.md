@@ -43,6 +43,9 @@ Descrivere i destinatari del prodotto editoriale descrivendo le personas alle qu
 > LM2 slide 29-32
 
 ### Requisiti di accettazione
+
+Come è già stato spiegato in precedenza, gli argomenti presenti nella rivista, vengono spesso trattati separatamente dai competitor. Inoltre, le istruzioni per la realizzazione di esperimenti e progetti fuori dagli schemi non sono sempre facili da reperire. Questo prodotto, quindi, propone un'innovazione da un punto di vista della qualità dei contenuti andando ad unire appassionati di materie diverse.
+
 Indicate i requisiti di accettazione che dovranno essere soddisfatti per raggiungere i destinatari. Quali modelli di fruizione consideriamo più efficaci per i nostri destinatari? Quali standard consideriamo come riferimento? Quali aspetti di innovazione possiamo proporre? Nella qualità dei contenuti o nel processo di fruizione?
 
 > LM4
