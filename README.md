@@ -25,7 +25,7 @@ Breve descrizione del progetto toccando i punti più importanti affrontati nel d
 ## Ideazione 
 
 ### Tema
-Questo prodotto si pone l'obiettivo ispirare i lettori a esplorare le frontiere della conoscenza scientifica attraverso la realizzazione di progetti accessibili e stimolanti. Gli appassionati di chimica, fisica, informatica, meccanica e più in generale tutte le materie scientifiche sono tanti; tuttavia, molto spesso, questi temi vengono trattati su supporti diversi. Questa rivista vuole essere un compendio dove ciascun lettore può trovare risposta su materie diverse. Tale rivista...
+Questo prodotto si pone l'obiettivo ispirare i lettori ad esplorare le frontiere della conoscenza scientifica attraverso la realizzazione di progetti accessibili e stimolanti. Gli appassionati di chimica, fisica, informatica, meccanica e più in generale tutte le materie scientifiche sono tanti; tuttavia, molto spesso, questi temi vengono trattati su supporti diversi. Questa rivista vuole essere un compendio dove ciascun lettore può trovare risposta su materie diverse. Ogni mese viene proposto un nuovo argomento. Per ogni argomento vi è una prima panoramica generale su di esso dopodichè, al lettore viene proposto un nuovo progetto da realizzare riguardante l'argomento trattato; I temi trattati infatti, sono più facilmente comprensibili se applicati in un contesto reale.
 
 Identificazione dei temi che il prodotto editoriale dovrà presentare. Evidenziare gli argomenti correlati e la tendenza dell'attenzione su questi temi. 
 
