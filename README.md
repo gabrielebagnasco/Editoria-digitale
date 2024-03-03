@@ -25,7 +25,7 @@ Breve descrizione del progetto toccando i punti più importanti affrontati nel d
 ## Ideazione 
 
 ### Tema
-Questo prodotto si pone l'obiettivo ispirare i lettori ad esplorare le frontiere della conoscenza scientifica attraverso la realizzazione di progetti accessibili e stimolanti. Gli appassionati di chimica, fisica, informatica, meccanica e più in generale tutte le materie scientifiche sono tanti; tuttavia, molto spesso, questi temi vengono trattati su supporti diversi. Questa rivista vuole essere un compendio dove ciascun lettore può trovare risposta su materie diverse. Ogni mese viene proposto un nuovo argomento. Per ogni argomento vi è una prima panoramica generale su di esso dopodichè, al lettore viene proposto un nuovo progetto da realizzare riguardante l'argomento trattato; I temi trattati infatti, sono più facilmente comprensibili se applicati in un contesto reale.
+Questo prodotto si pone l'obiettivo ispirare i lettori ad esplorare le frontiere della conoscenza scientifica attraverso la realizzazione di progetti accessibili e stimolanti. Gli appassionati di chimica, fisica, informatica, meccanica e più in generale tutte le materie scientifiche sono tanti; tuttavia, molto spesso, questi temi vengono trattati su supporti diversi. Questa rivista vuole essere un compendio dove ciascun lettore può trovare risposta su materie diverse. Ogni mese viene proposto un nuovo argomento. Per ognuno di essi vi è una prima panoramica generale dopodichè, al lettore viene proposto un nuovo progetto da realizzare riguardante l'argomento trattato; I temi discussi, infatti, sono più facilmente comprensibili se applicati in un contesto reale.
 
 Identificazione dei temi che il prodotto editoriale dovrà presentare. Evidenziare gli argomenti correlati e la tendenza dell'attenzione su questi temi. 
 
@@ -44,7 +44,7 @@ Descrivere i destinatari del prodotto editoriale descrivendo le personas alle qu
 
 ### Requisiti di accettazione
 
-Come è già stato spiegato in precedenza, gli argomenti presenti nella rivista, vengono spesso trattati separatamente dai competitor. Inoltre, le istruzioni per la realizzazione di esperimenti e progetti fuori dagli schemi non sono sempre facili da reperire. Questo prodotto, quindi, propone un'innovazione da un punto di vista della qualità dei contenuti andando ad unire appassionati di materie diverse.
+Come è già stato spiegato in precedenza, gli argomenti presenti nella rivista, vengono spesso trattati separatamente dai competitor. Inoltre, le istruzioni per la realizzazione di esperimenti e progetti fuori dagli schemi non sono sempre facili da reperire. Questo prodotto, quindi, propone un'innovazione da un punto di vista della qualità dei contenuti andando ad unire appassionati di materie diverse. 
 
 Indicate i requisiti di accettazione che dovranno essere soddisfatti per raggiungere i destinatari. Quali modelli di fruizione consideriamo più efficaci per i nostri destinatari? Quali standard consideriamo come riferimento? Quali aspetti di innovazione possiamo proporre? Nella qualità dei contenuti o nel processo di fruizione?
 
