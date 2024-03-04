@@ -4,7 +4,7 @@ author: Gabriele Bagnasco 05724A
 date: a.a. 2023/24
 institute: Università degli Studi di Milano
 course: Editoria Digitale
-tags: tag1, tag2, tag3
+tags: rivista, ingegno
 version: 0.1
 kind: Document
 bibliography: bibliografia.bib
@@ -73,4 +73,5 @@ La scelta di procedere in più fasi ha richiesto tempi più lunghi per la stesur
 Il progetto risponde all'esigenza di fruibilità diffusa riuscendo a raggiungere il target previsto. Dalle analisi effettuate risulta che la lettura di un articolo sia di facile comprensione.
 
 ## Bibliografia e sitografia
-[@Rulof_Fai.da.te_]
+Elenco delle risorse fondamentali per la realizzazione del prodotto
+[@Rulof_Fai.da.Te_]
