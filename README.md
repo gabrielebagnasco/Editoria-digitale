@@ -74,5 +74,3 @@ Il progetto risponde all'esigenza di fruibilità diffusa riuscendo a raggiungere
 
 ## Bibliografia e sitografia
 @Rulof_Fai.da.te_ [Canale youtube](https://www.youtube.com/@Rulof_Fai.da.Te_) destinato alla realizzazione di lavori di fai-da-te.
-
-@LeroyMerlin Punto di riferimento per la fornitura dei materiali necessari alla realizzazione di un progetto.
