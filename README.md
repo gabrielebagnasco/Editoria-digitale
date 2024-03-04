@@ -73,4 +73,4 @@ La scelta di procedere in più fasi ha richiesto tempi più lunghi per la stesur
 Il progetto risponde all'esigenza di fruibilità diffusa riuscendo a raggiungere il target previsto. Dalle analisi effettuate risulta che la lettura di un articolo sia di facile comprensione.
 
 ## Bibliografia e sitografia
-@Rulof_Fai.da.te_ [Canale youtube](https://www.youtube.com/@Rulof_Fai.da.Te_) destinato alla realizzazione di lavori di fai-da-te.
+[@Rulof_Fai.da.te_]
