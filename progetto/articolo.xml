@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+  <Articoli>
+    <Articolo>
+      <Titolo>Idrogeno ed elettrolisi</Titolo>
+      <Introduzione>
+        <Testo>Nell'era dell'innovazione sostenibile e della ricerca di alternative energetiche pulite, l'idrogeno emerge come una risorsa promettente, capace di rivoluzionare il panorama energetico mondiale.
+Al cuore di questa rivoluzione, troviamo l'elettrolisi dell'acqua, un processo elettrochimico che permette di scindere le molecole di acqua in idrogeno e ossigeno, sfruttando l'energia elettrica.
+Questo articolo mira ad esplorare la progettazione e la realizzazione di un generatore di idrogeno basato proprio su questo principio, offrendo una guida dettagliata che spazia dalla teoria alla pratica.  
+L'elettrolisi è il meccanismo alla base della generazione di idrogeno. Questo processo si svolge in una cella elettrolitica, dove l'acqua, sotto l'azione di una corrente elettrica fornita dall'esterno, viene decomposta nei suoi componenti elementari: idrogeno (H2) e ossigeno (O). Il ruolo chiave è svolto dagli elettrodi immersi nell'acqua, tra cui viene applicata una differenza di potenziale sufficiente a innescare la reazione di scissione. La magia dell'elettrolisi risiede nella sua semplicità e nella sua efficienza, capaci di trasformare l'acqua (una risorsa abbondante) e l'energia elettrica, potenzialmente derivata da fonti rinnovabili, in un combustibile pulito e versatile come l'idrogeno.
+L'idrogeno prodotto può avere diverse applicazioni, dalle celle a combustibile, che generano elettricità, ai mezzi di trasporto, fino all'industria chimica, offrendo una soluzione concreta per ridurre l'impronta carbonica globale.
+Nelle pagine che seguono, ci addentreremo nel cuore tecnologico di un generatore di idrogeno, descrivendo i componenti necessari, i materiali consigliati e le considerazioni di sicurezza fondamentali per la costruzione e il funzionamento efficiente ed efficace dell'apparato.
+Attraverso spiegazioni passo-passo, illustrazioni dettagliate e consigli pratici, questo articolo si propone di fornire tutte le conoscenze necessarie per avvicinarsi al mondo dell'idrogeno, aprendo le porte a studenti, appassionati di tecnologia e professionisti desiderosi di esplorare le potenzialità di questa fonte energetica del futuro.    
+        </Testo>
+      <Image href="File:///immagini/elettrolisi.jpg"></Image>
+      </Introduzione>
+      <Materiali>
+        <Tabella>
+          <Materiale><Image href="File:///immagini/materiali/contenitore.jpg"></Image></Materiale>
+          <Materiale><Image href="File:///immagini/materiali/barraFilettata.jpg"></Image></Materiale>
+          <Materiale><Image href="File:///immagini/materiali/rondelleGomma.jpg"></Image></Materiale>
+          <Materiale><Image href="File:///immagini/materiali/viti.jpg"></Image></Materiale>
+          <Materiale><Image href="File:///immagini/materiali/cavi.jpg"></Image></Materiale>
+          <Materiale><Image href="File:///immagini/materiali/capicorda.jpg"></Image></Materiale>
+          <Materiale><Image href="File:///immagini/materiali/rubinetto.jpg"></Image></Materiale>
+          <Materiale><Image href="File:///immagini/materiali/raccordo.jpg"></Image></Materiale>
+        </Tabella>
+        <Elenco>Contenitore trasparente alto circa 25cm
+Barra filettata 10mm in plastica
+Rondelle di gomma o spessori forati in plastica
+Cavi elettrici da 1.5mm
+Batteria o alimentatore 6-24 Volt
+Rubinetto del gas o un raccordo del gas da 1/2 pollice
+Raccordo maschio-maschio da 1/2 pollice
+Viti M4 e dadi da 4 e 10 mm</Elenco>
+      </Materiali>
+      <Avvertenze>
+        <Titolo>Prima di iniziare</Titolo>
+        <Contenuto>Attenzione! Questo progetto può essere realizzato in completa sicurezza tuttavia, non ci assumiamo alcuna reponsabilità per danni a cose, persone e animali. Si consiglia di seguire molto attentamente le istruzioni fornite per la realizzazione del progetto.
+        </Contenuto>
+      </Avvertenze>
+      <Istruzioni>
+        <Contenuto>Cominciamo partendo dalle rondelle del 10 maggiorate. Noi consigliamo di usare una dozzina di rondelle, ma l'importante è che siano multipli di 2. Con l'utilizzo del trapano facciamo dei fori da 3.5mm sul bordo delle rondelle (figura 1), filettiamo quindi, i fori con un maschio da 4mm così da poterci avvitare, in seguito, delle viti.
+Ora prendiamo due cavi elettrici da 1.5mm. Noi abbiamo preferito differenziarli in rosso e nero. Tagliamo 10 pezzi da 5-6cm, 5 di un colore e 5 di un altro. Tagliamo poi un paio di pezzi da circa 8-10cm. A questo punto dobbiamo crimpare ad ogni estremità dei cavetti dei capicorda ad occhiello. L'ideale sarebbe utilizzare una crimpatrice per fissare i capicorda ma nel caso non si disponesse dell'utensile si potrebbe usare una più comune pinza.
+Prendiamo la nostra barra filettata in plastica, avvitiamo un dado ad una delle due estremità, infiliamo una rondella di gomma (o uno spessore in plastica forato) ed infine una rondella.
+Ora, fissiamo un cavo rosso al foro della rondella, creato precedentemente, con una vite. Dopodichè, inseriamo un altro spessore e un'altra rondella. Questa volta fissiamo un cavo nero alla rondella.
+Aggiungiamo un altro spessore ed un'altra rondella ma questa volta colleghiamo due cavi ad essa, il primo sarà il cavo rosso della prima rondella, il secondo sarà invece, un nuovo cavo rosso. Facciamo la stessa identica cosa con la prossima rondella ma utilizzando i cavi neri.
+Ripetiamo questa operazione per tutte le rondelle. Le ultime due rondelle dovranno terminare con i cavetti più lunghi degli altri. Guardare la figura 2. Alla fine fissiamo il tutto con uno spessore ed un dado.
+Una volta costuita la barra con gli elettrodi, dobbiamo fissarla al centro del nostro contenitore. Prendiamo quindi il tappo del barattolo e facciamo un foro da 10mm al centro e fissiamo la nostra barra creata con un dado.
+Pratichiamo poi altri due fori da 4mm di diametro sul coperchio. In questi due fori dobbiamo far passare due viti dal basso verso l'alto fissando i due cavetti che avevamo temporaneamente lasciato volanti (figura 3)
+Queste viti permetteranno il collegamento degli elettrodi ad un alimentatore o ad una batteria. A questo punto ci rimane soltanto da collegare il rubinetto o raccordo del gas. Per fare ciò, pratichiamo un foro grande abbastanza da far passare un raccordo maschio-maschio da 1/2 pollice dall'interno all'esterno, fissandolo poi con il rubinetto. Si consiglia di inserire una guarnizione tra il raccordo e il barattolo per evitare perdite.
+</Contenuto>
+        <Image href="File:///immagini/istruzioni/rondella.png"></Image>
+        <Image href="File:///immagini/istruzioni/barra.png"></Image>
+        <Image href="File:///immagini/istruzioni/barattolo.png"></Image>
+      </Istruzioni>
+      <Funzionamento>
+        <Contenuto>Una volta costruito il nostro generatore saremo pronti per generare tutto l'idrogeno che vogliamo. L'azionamento del generatore è piuttosto semplice. Basterà inserire dell'acqua distillata all'interno del barattolo. Si consiglia di aggiungere un cucchiaio di bicarbonato all'acqua per facilitare la reazione. Infine colleghiamo le due viti sul coperchio ad una batteria o ad un alimentatore che lavora tra i 6 e i 24 Volt.
+Se tutto funzionerà correttamente, noteremo che si formeranno delle bolle allìinterno del barattolo e dal rubinetto del gas uscirà del gas. Vi ricordiamo che l'idrogeno è altamente infiammabile. E' possibile sfruttare questo gas per realizzare una fiamma ossidrica in grado di raggiungere temperature elevatissime. Magari vi spiegeremo come fare in un altro numero!
+        </Contenuto>
+        <Image href="File:///immagini/generatore2.jpg"></Image>
+      </Funzionamento>
+    </Articolo>
+  </Articoli>
+</Root>

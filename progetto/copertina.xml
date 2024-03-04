@@ -1,0 +1,15 @@
+<Root>
+  <Copertina>
+    <Titolo>Ingegno</Titolo>
+    <Data>Marzo 2024</Data>
+    <Sfondo>
+      <Image href="File:///immagini/sfondo1.png"></Image>
+    </Sfondo>
+    <Articoli>
+      <Articolo>
+        <Image href="File:///immagini/h2o.png"></Image>
+        <Didascalia>Idrogeno fai da te</Didascalia>
+      </Articolo>
+    </Articoli>
+  </Copertina>
+</Root>
