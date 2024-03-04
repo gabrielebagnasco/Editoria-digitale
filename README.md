@@ -56,6 +56,8 @@ Attraverso l'analisi del mercato, viene scelto il progetto mensile da editare. Q
 ### Esecuzione del flusso
 Sul profilo GitHub è possibile trovare tutti i materiali che permettono di riprodurre il flusso di produzione documentale.
 
+https://github.com/gabrielebagnasco/Editoria-digitale/
+
 ## Valutazione dei risultati raggiunti
 
 ### Valutazione del flusso di produzione
@@ -71,7 +73,5 @@ La scelta di procedere in più fasi ha richiesto tempi più lunghi per la stesur
 Il progetto risponde all'esigenza di fruibilità diffusa riuscendo a raggiungere il target previsto. Dalle analisi effettuate risulta che la lettura di un articolo sia di facile comprensione.
 
 ## Bibliografia e sitografia
-
-
-
-Elencare i riferimenti bibliografici e risorse online che hanno maggiormente contribuito alla realizzazione del progetto. Ad esempio [@sechi2010,@pantieri2021,@ceravolo2023]
+@Rulof_Fai.da.te_ [Canale youtube](https://www.youtube.com/@Rulof_Fai.da.Te_)
+@Leroy Merlin punto di riferimento per la fornitura dei materiali necessari alla realizzazione di un progetto
